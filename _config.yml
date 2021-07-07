@@ -1,6 +1,7 @@
 title: IBM WFM Microservices
 author: steven-ponessa
 email: ponessa@us.ibm.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This site holds the documentation for the microservieces.
 
